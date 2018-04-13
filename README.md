@@ -1,6 +1,9 @@
 HELLO GIT
 ==================
 
-This repo is to learning how to use git
+Isto é um exemplo para entender como usar o git
+
+==================
+
 
 
